@@ -22,4 +22,3 @@ doc_events = {
         "before_save": "custom_margin_app.custom_margin_app.doctype.custom_margin_app.custom_margin_app.apply_custom_margin"
     }
 }
-
