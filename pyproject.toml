@@ -3,13 +3,12 @@ name = "custom_margin_app"
 authors = [
     { name = "ma7mod7osam", email = "ma7mod7osam@gmail.com"}
 ]
-description = "An app to apply custom margin rate on itemse"
+description = "An app to apply custom margin rate on items"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [
     # "frappe~=15.0.0" # Installed and managed by bench.
-    "asn1~=2.6.0" 
 ]
 
 [build-system]
