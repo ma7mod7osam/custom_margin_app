@@ -7,9 +7,8 @@ app_description = "An app to apply custom margin rate on items"
 app_email = "ma7mod7osam@gmail.com"
 app_license = "MIT"
 
-# Skip asset build
-app_include_js = []
-app_include_css = []
+# No frontend assets included, so no need to specify app_include_js or app_include_css
+
 
 doc_events = {
     "Quotation": {
